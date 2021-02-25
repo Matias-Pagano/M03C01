@@ -1,0 +1,1 @@
+let resta = (a,b) => a - b;
